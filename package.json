@@ -1,0 +1,19 @@
+{
+  "name": "scssportfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio building with html and scss",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tihomirtx88/ScssPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tihomirtx88/ScssPortfolio/issues"
+  },
+  "homepage": "https://github.com/tihomirtx88/ScssPortfolio#readme"
+}
